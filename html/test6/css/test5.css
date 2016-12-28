@@ -1,0 +1,31 @@
+#imag
+{
+background: url("http://fakeimg.pl/350x200/?text=World&font=lobster") no-repeat;
+background-size: 100%
+max-height: 500px;
+min-height: 400px;
+clear: both;
+display: block;
+position: absolute;
+}
+
+#a {float: left;
+
+
+
+}
+#b {
+	float: right;
+}
+/*				
+#a
+
+{
+	float: left;
+	padding-left: : 200px;
+}
+
+#b
+{
+	float: right;
+}*/
