@@ -28,9 +28,7 @@ Test 5 :
 Créer une image contenant un paragraphe incluant du texte et deux éléments
 <img /> qui se suivent. Faire flotter les images, la première à gauche et la
 seconde à droite.
-< hum, hum, hum dans l'image t'as deux images côte à côte + du texte... 
-< donc soit on joue avec des relatif soit on background tout ça?
-< yo no sé que hacer
+
 
 Test 6 :
 Placer trois images de tailles initiales différentes dans une page. Écrire les styles
