@@ -33,6 +33,7 @@ Créer un menu vertical dont les éléments sont des liens <a/>.
 Test 5 :
 --
 Créer une image contenant un paragraphe incluant du texte et deux éléments
+
 	<img /> qui se suivent. Faire flotter les images, la première à gauche et la
 seconde à droite. 
 
@@ -40,6 +41,7 @@ seconde à droite.
 > hum, hum, hum dans l'image t'as deux images côte à côte + du texte...   
 > donc soit on joue avec des relatifs soit on background tout ça, ou pas?  
 > yo no sé que hacer  
+
 
 Test 6 :
 --
@@ -75,4 +77,5 @@ de ce site sans regarder le CSS:
 http://www.alsacreations.com/static/gabarits/liste.html
 Attention, il ne s’agit pas de reproduire l’icone mais bien toute la page du gabarit
 !
+
 
