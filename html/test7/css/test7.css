@@ -1,0 +1,23 @@
+#imag
+{
+display: flex;
+}
+#vingt
+{
+width: 20%;
+background-color: rgb(255, 0, 0);
+
+
+}
+#soixante 
+{
+width: 65%;
+background-color: rgb(0, 255, 0);
+}
+#quinze
+{
+width: 65%;
+background-color: rgb(0, 0, 255);
+	
+}
+
