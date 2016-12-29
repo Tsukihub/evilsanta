@@ -1,0 +1,43 @@
+#imag
+{
+
+position: absolute;
+}
+#aa
+{
+	position: relative;
+
+
+}
+#a 
+{
+
+position: relative;
+top:20px;
+right: 70px;
+
+}
+#b 
+{
+position: relative;
+top:40px;
+right: 140px;
+	
+}
+
+img:hover{
+    
+     z-index:1;
+ }
+/*				
+#a
+
+{
+	float: left;
+	padding-left: : 200px;
+}
+
+#b
+{
+	float: right;
+}*/
